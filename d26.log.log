@@ -1,0 +1,32 @@
+2026-09-14 10:01:12 INFO  OrderService - Order ORD1001 created successfully
+2026-09-14 10:01:15 ERROR PaymentService - Database connection timeout
+2026-09-14 10:01:18 ERROR OrderService - Database connection timeout
+2026-09-14 10:01:21 ERROR PaymentService - Payment gateway timeout
+2026-09-14 10:01:25 INFO  OrderService - Order ORD1002 created successfully
+2026-09-14 10:01:29 ERROR InventoryService - Product not available
+2026-09-14 10:01:31 ERROR PaymentService - Database connection timeout
+2026-09-14 10:01:35 ERROR OrderService - Invalid customer ID
+2026-09-14 10:01:38 ERROR PaymentService - Payment gateway timeout
+2026-09-14 10:01:41 WARN  InventoryService - Inventory level is low
+2026-09-14 10:01:45 ERROR PaymentService - Database connection timeout
+2026-09-14 10:01:48 ERROR OrderService - Database connection timeout
+2026-09-14 10:01:51 ERROR InventoryService - Product not available
+2026-09-14 10:01:54 INFO  PaymentService - Payment successful
+2026-09-14 10:01:57 ERROR PaymentService - Payment gateway timeout
+2026-09-14 10:02:01 ERROR OrderService - Invalid customer ID
+2026-09-14 10:02:04 ERROR PaymentService - Database connection timeout
+2026-09-14 10:02:08 ERROR InventoryService - Product not available
+2026-09-14 10:02:12 ERROR OrderService - Database connection timeout
+2026-09-14 10:02:15 ERROR PaymentService - Payment gateway timeout
+2026-09-14 10:02:18 ERROR PaymentService - Database connection timeout
+2026-09-14 10:02:21 ERROR OrderService - Database connection timeout
+2026-09-14 10:02:25 ERROR InventoryService - Product not available
+2026-09-14 10:02:28 ERROR PaymentService - Payment gateway timeout
+2026-09-14 10:02:31 ERROR OrderService - Invalid customer ID
+2026-09-14 10:02:35 ERROR PaymentService - Database connection timeout
+2026-09-14 10:02:39 INFO  OrderService - Order ORD1003 created successfully
+2026-09-14 10:02:42 ERROR PaymentService - Database connection timeout
+2026-09-14 10:02:45 ERROR InventoryService - Product not available
+2026-09-14 10:02:48 ERROR PaymentService - Payment gateway timeout
+2026-09-14 10:02:51 ERROR OrderService - Database connection timeout
+2026-09-14 10:02:55 ERROR PaymentService - Database connection timeout

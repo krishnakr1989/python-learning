@@ -1,0 +1,5 @@
+instance,environment,status
+i-123,prod,running
+i-456,prod,stopped
+i-789,dev,running
+i-4567,prod,stopped

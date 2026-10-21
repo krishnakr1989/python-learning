@@ -1,0 +1,10 @@
+2026-09-14 11:58:21,123 INFO  [OrderService] [requestId=abc123] Received order request userId=10045 orderId=ORD-9001
+2026-09-14 11:58:21,145 INFO  [OrderService] [requestId=abc123] Validating order ORD-9001
+2026-09-14 11:58:21,167 INFO  [PaymentService] [requestId=abc123] Initiating payment for order ORD-9001 amount=1250.50
+2026-09-14 11:58:21,432 INFO  [PaymentService] [requestId=abc123] Payment successful transactionId=TXN-78901
+2026-09-14 11:58:21,455 INFO  [OrderService] [requestId=abc123] Order ORD-9001 created successfully
+2026-09-14 11:59:03,321 WARN  [OrderService] [requestId=def456] Inventory level low productId=P100 quantity=3
+2026-09-14 11:59:18,543 ERROR [PaymentService] [requestId=ghi789] Payment failed orderId=ORD-9002 errorCode=PAY-504
+2026-09-14 11:59:18,544 ERROR [PaymentService] [requestId=ghi789] Payment gateway timeout after 30 seconds
+2026-09-14 12:00:01,001 INFO  [OrderService] [requestId=jkl012] Received order request userId=10089 orderId=ORD-9003
+2026-09-14 12:00:31,002 ERROR [DatabaseService] [requestId=jkl012] Database connection timeout host=db-prod-01

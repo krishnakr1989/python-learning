@@ -1,0 +1,4 @@
+application: payment
+environment: prod1
+replicas: 5
+image: payment:2.4.1
